@@ -1,0 +1,11 @@
+﻿  Moc'ing GUI.h...
+  moc_GUI.cpp
+  moc_OutputGUI.cpp
+  GUI.cpp
+  OutputGUI.cpp
+  color_code.cpp
+  face_code.cpp
+  main.cpp
+  shape_code.cpp
+  tire_code.cpp
+  QtGuiApplication1.vcxproj -> C:\Users\Calvin\source\repos\QtGuiApplication1\x64\Debug\QtGuiApplication1.exe
